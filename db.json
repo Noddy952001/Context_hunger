@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "name": "vaik",
+      "age": "3231",
+      "dateOfbirth": "2022-04-04",
+      "stateOfResisdence": "saj",
+      "address": "i",
+      "pincode": "2322",
+      "id": 1
+    },
+    {
+      "name": "raj",
+      "age": "23",
+      "dateOfbirth": "2022-04-13",
+      "stateOfResisdence": "delhi",
+      "address": "vindo nagar",
+      "pincode": "33001",
+      "id": 2
+    },
+    {
+      "name": "raja ram",
+      "age": "43",
+      "dateOfbirth": "2022-03-28",
+      "stateOfResisdence": "naital",
+      "address": "Dam road",
+      "pincode": "45231",
+      "id": 3
+    },
+    {
+      "name": "anjali",
+      "age": "21",
+      "dateOfbirth": "2022-04-06",
+      "stateOfResisdence": "singapur",
+      "address": "garm godam road",
+      "pincode": "4545",
+      "id": 4
+    },
+    {
+      "name": "viaks",
+      "age": "21",
+      "dateOfbirth": "2022-04-07",
+      "stateOfResisdence": "delhi",
+      "address": "vinod",
+      "pincode": "2112",
+      "id": 5
+    }
+  ]
+}
